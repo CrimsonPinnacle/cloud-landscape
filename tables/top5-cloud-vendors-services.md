@@ -27,4 +27,4 @@ vendor to simplify the comparison between vendors.
 | Storage |  |  |  |  |  |
 | Web |  |  |  |  |  |
 
-[service]: ../images/icons/gear48x48.png "Cloud Service"
+[service]: ../images/icons/gear24x24.png "Cloud Service"
