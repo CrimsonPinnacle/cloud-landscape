@@ -6,7 +6,9 @@ vendor to simplify the comparison between vendors.
 
 | Category | Amazon AWS | Google Cloud Engine | IBM Cloud | Microsoft Azure | Oracle Cloud |
 | -------- | ---------- | ------------------- | --------- | --------------- | ------------ |
-| AI & Machine Learning |  |  |  | **Machine Learning Services** <br> Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management <br> [Marketing Page](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> [Documentation](https://azure.microsoft.com/en-us/services/machine-learning-services/) |  |
+| AI & Machine Learning |  |  |  | **Machine Learning Services** <br> Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management <br> [Marketing Page](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning-services/) <br> [Documentation](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> ![service][service] |  |
+|  |  |  |  | **Machine Learning Studio** <br> Easily build, deploy, and manage predictive analytics solutions <br> [Marketing Page](https://azure.microsoft.com/en-us/services/machine-learning-studio/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning-studio/) <br> [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/) |  |
+|  |  |  |  | **Azure Databricks** <br> Fast, easy, and collaborative Apache Spark-based analytics platform <br> [Marketing Page](https://azure.microsoft.com/en-us/services/databricks/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/databricks/) <br> [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/) |  |
 | Analytics |  |  |  |  |  |
 | Compute |  |  |  |  |  |
 | Containers |  |  |  |  |  |
@@ -24,3 +26,5 @@ vendor to simplify the comparison between vendors.
 | Security |  |  |  |  |  |
 | Storage |  |  |  |  |  |
 | Web |  |  |  |  |  |
+
+[service]: ../images/icons/gear48x48.png "Cloud Service"
