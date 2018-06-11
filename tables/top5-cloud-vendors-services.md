@@ -6,7 +6,7 @@ vendor to simplify the comparison between vendors.
 
 | Category | Amazon AWS | Google Cloud Engine | IBM Cloud | Microsoft Azure | Oracle Cloud |
 | -------- | ---------- | ------------------- | --------- | --------------- | ------------ |
-| AI & Machine Learning |  |  |  | **Machine Learning Services** <br> Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management <br> [Marketing Page](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning-services/) <br> [Documentation](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> ![service][service] |  |
+| AI & Machine Learning |  |  |  | **Machine Learning Services** <br> Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management <br> [Marketing Page](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning-services/) <br> [Documentation](https://azure.microsoft.com/en-us/services/machine-learning-services/) <br> <img src="../images/icons/gear.svg" title="Cloud Service" height="24"> |  |
 |  |  |  |  | **Machine Learning Studio** <br> Easily build, deploy, and manage predictive analytics solutions <br> [Marketing Page](https://azure.microsoft.com/en-us/services/machine-learning-studio/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning-studio/) <br> [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/) |  |
 |  |  |  |  | **Azure Databricks** <br> Fast, easy, and collaborative Apache Spark-based analytics platform <br> [Marketing Page](https://azure.microsoft.com/en-us/services/databricks/) <br> [Pricing](https://azure.microsoft.com/en-us/pricing/details/databricks/) <br> [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/) |  |
 | Analytics |  |  |  |  |  |
@@ -27,4 +27,4 @@ vendor to simplify the comparison between vendors.
 | Storage |  |  |  |  |  |
 | Web |  |  |  |  |  |
 
-[service]: ../images/icons/gear24x24.png "Cloud Service"
+[service]: ../images/icons/gear.svg "Cloud Service"
