@@ -35,5 +35,5 @@ specific industry regulations and standards.
 | -------- | -------- |-------- |-------- |-------- |-------- |-------- |
 | Financials |  |  |  |  | **23 NYCRR 500** <br> New York State Department of Financial Services - Cybersecurity Requirement for Financial Services Companies <br> [Regulation Link](https://www.dfs.ny.gov/legal/regulations/adoptions/dfsrf500txt.pdf) |  |
 |  |  |  |  |  | **APRA (Australia)** <br> Australian Prudential Regulation Authority <br> [Regulation Link](https://www.apra.gov.au/) |  |
-| Helthcare |  |  |  |  |  |  |
+| Healthcare |  |  |  |  |  |  |
 | Media |  |  |  |  | **CDSA** <br> Content Delivery & Security Association (CDSA) Content Protection & Security (CPS) Standard <br> [Regulation Link](http://www.mesalliance.org/wp-content/uploads/2016/04/Content-Protection-Security-Standard-February-2016.pdf) <br> [Vendor Page](https://www.microsoft.com/en-us/trustcenter/compliance/cdsa) <br> [Azure CDSA CPS Audit Report](https://aka.ms/AzureCDSACPSAuditReport) <br> [Azure Media Services Certificate of Compliance](http://aka.ms/cdsa-cert) <br> [Azure CDSA implementation guide](https://aka.ms/AzureCDSAImplementationGuide) <br><br> _In-Scope Services_ <ul><li>Azure Media Services</li></ul> |  |
