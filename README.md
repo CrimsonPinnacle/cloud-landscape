@@ -19,9 +19,9 @@ Since I started my career in the cloud in 2009, I've been asked on many occasion
 
 1. First, I am sure other people have also been asked to compare AWS to Azure to Google Cloud. This will give them a simple reference they can go to and find a solid starting point
 
-2. Second, I teach Cloud Computing in a local college and would like to use this information for illustration purposes for my students as well as give them a good base they can build on
+2. Second, I teach Cloud Computing in a local college and would like to use this information for illustration purposes for my students as well as give them a good base they can build upon
 
-3. Last, but not least, I hope that by making this information public, others will be willing to contribute, improve and enrich thir reference
+3. Last, but not least, I hope that by making this information public, others will be willing to contribute, improve and enrich this reference
 
 ## Table of Contents
 
@@ -40,14 +40,14 @@ Here is a list of the currently available mindmaps:
 
 ## Tables
 
-The [tables](https://github.com/CrimsonPinnacle/cloud-landscape/tree/master/tables) folder contains comparison tables for different cloud vendors, services and tools. The tables are available in markdown as well as PDF format.
+The [tables](https://github.com/CrimsonPinnacle/cloud-landscape/tree/master/tables) folder contains comparison tables of different cloud vendors, services and tools. The tables are available in markdown as well as PDF format.
 
 Here is a list of the currently available tables:
 **TBD**
 
 ## Data
 
-The [data](https://github.com/CrimsonPinnacle/cloud-landscape/tree/master/data) folder contains various data about the cloud vendors, services and tools that is collected over time. The data is available in CSV format as well as PDF format that visualizes the data.
+The [data](https://github.com/CrimsonPinnacle/cloud-landscape/tree/master/data) folder contains various data about the cloud vendors, services and tools that I've collected over time. The data is available in CSV format for easy consumptions as well as PDF format for easy viewing.
 
 Here is a list of the currently available data:
 **TBD**
