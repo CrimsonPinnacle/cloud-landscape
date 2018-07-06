@@ -43,7 +43,9 @@ Here is a list of the currently available mindmaps:
 The [tables](https://github.com/CrimsonPinnacle/cloud-landscape/tree/master/tables) folder contains comparison tables of different cloud vendors, services and tools. The tables are available in markdown as well as PDF format.
 
 Here is a list of the currently available tables:
-**TBD**
+
+* Top 5 Cloud Vendors - Services Comparison [markdown](https://github.com/CrimsonPinnacle/cloud-landscape/blob/master/tables/top5-cloud-vendors-services.md)
+* Top 5 Cloud Vendors - Compliance Comparison [markdown](https://github.com/CrimsonPinnacle/cloud-landscape/blob/master/tables/top5-cloud-vendors-compliance.md)
 
 ## Data
 
